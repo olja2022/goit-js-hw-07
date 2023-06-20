@@ -32,7 +32,4 @@ const onContainerClick = (e) => {
 
   instance.show();
 };
-
 galleryContainerEl.addEventListener("click", onContainerClick);
-
-// console.log(galleryItems);
